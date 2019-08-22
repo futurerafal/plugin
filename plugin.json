@@ -1,6 +1,6 @@
 {
     "vendor": "something",
-    "name": "Plugin",
+    "name": "some",
     "version": "1.0",
     "enabled": true,
     "providers": [],
