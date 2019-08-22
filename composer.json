@@ -1,0 +1,19 @@
+{
+    "name": "futurerafal/plugin",
+    "description": "",
+    "extra": {
+        "laravel": {
+            "providers": {
+
+            },
+            "aliases": {
+
+            }
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "Plugins\\Futurerafal\\Plugin\\": ""
+        }
+    }
+}
