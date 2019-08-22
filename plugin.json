@@ -1,7 +1,7 @@
 {
     "vendor": "Futurerafal",
     "name": "Plugin",
-    "version": "1.0",
+    "version": "2.0",
     "enabled": true,
     "providers": [],
     "service_providers": {"customers":"Plugins\\FooBar\\CustomPlugin\\Providers\\CustomersServiceProvider","products":"Plugins\\FooBar\\CustomPlugin\\Providers\\ProductsServiceProvider"},

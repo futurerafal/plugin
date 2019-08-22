@@ -13,6 +13,6 @@ class CustomersServiceProvider extends ServiceProvider
      */
     public function register()
     {
-        //
+        $test = 'dummy';
     }
 }
