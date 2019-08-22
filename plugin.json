@@ -4,6 +4,6 @@
     "version": "2.0",
     "enabled": true,
     "providers": [],
-    "service_providers": {"customers":"Plugins\\FooBar\\CustomPlugin\\Providers\\CustomersServiceProvider","products":"Plugins\\FooBar\\CustomPlugin\\Providers\\ProductsServiceProvider"},
+    "service_providers": {"customers":"Plugins\\Futurerafal\\Plugin\\Providers\\CustomersServiceProvider","products":"Plugins\\Futurerafal\\Plugin\\Providers\\ProductsServiceProvider"},
     "aliases": []
 }
