@@ -1,5 +1,6 @@
 {
     "name": "futurerafal/plugin",
+    "type": "futureecom-plugin",
     "description": "",
     "extra": {
         "laravel": {
@@ -10,6 +11,9 @@
 
             }
         }
+    },
+    "require": {
+        "flow/jsonpath": "^0.4"
     },
     "autoload": {
         "psr-4": {
