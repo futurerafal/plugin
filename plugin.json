@@ -1,9 +1,13 @@
 {
-    "vendor": "Futurerafal",
-    "name": "Plugin",
-    "version": "3.0.1",
-    "enabled": true,
-    "providers": [],
-    "service_providers": {"customers":"Plugins\\Futurerafal\\Plugin\\Providers\\CustomersServiceProvider","products":"Plugins\\Futurerafal\\Plugin\\Providers\\ProductsServiceProvider"},
-    "aliases": []
+  "vendor": "Futurerafal",
+  "name": "Plugin",
+  "version": "3.0.1",
+  "enabled": true,
+  "providers": [],
+  "service_providers": {
+    "customers": "Plugins\\Futurerafal\\Plugin\\Providers\\CustomersServiceProvider",
+    "products": "Plugins\\Futurerafal\\Plugin\\Providers\\ProductsServiceProvider",
+    "cart": "Plugins\\Futurerafal\\Plugin\\Providers\\CartServiceProvider",
+  },
+  "aliases": []
 }

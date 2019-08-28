@@ -1,0 +1,18 @@
+<?php
+
+namespace Plugins\Futurerafal\Plugin\Providers;
+
+use Illuminate\Support\ServiceProvider;
+
+class CartServiceProvider extends ServiceProvider
+{
+    /**
+     * Register the service provider.
+     *
+     * @return void
+     */
+    public function register()
+    {
+        //
+    }
+}
