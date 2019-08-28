@@ -7,7 +7,7 @@
   "service_providers": {
     "customers": "Plugins\\Futurerafal\\Plugin\\Providers\\CustomersServiceProvider",
     "products": "Plugins\\Futurerafal\\Plugin\\Providers\\ProductsServiceProvider",
-    "cart": "Plugins\\Futurerafal\\Plugin\\Providers\\CartServiceProvider",
+    "cart": "Plugins\\Futurerafal\\Plugin\\Providers\\CartServiceProvider"
   },
   "aliases": []
 }
