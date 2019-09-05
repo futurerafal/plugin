@@ -1,7 +1,7 @@
 {
   "vendor": "Futurerafal",
   "name": "Plugin",
-  "version": "3.0.1",
+  "version": "3.0.4",
   "enabled": true,
   "providers": [],
   "service_providers": {
