@@ -18,7 +18,7 @@ return [
             'plugin' => [
                 'general.foo_bar' => 'list:guest,customer,admin|details:guest,customer,admin',
             ],
-            'shipping' => [
+            'payments' => [
                 'methods.braintree.merchantId' => 'list:guest,customer,admin|details:admin'
             ]
         ],
