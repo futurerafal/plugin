@@ -8,7 +8,7 @@ return [
     ],
     'configuration' => [
         'rules' => [
-            'custom_plugin' => [
+            'plugin' => [
                 'update' => [
                     'foo_bar' => 'string',
                 ],
@@ -20,7 +20,7 @@ return [
             ]
         ],
         'visibility' => [
-            'custom_plugin' => [
+            'plugin' => [
                 'foo_bar' => 'list:guest,customer,admin|details:guest,customer,admin',
             ],
             'existing_service' => [
